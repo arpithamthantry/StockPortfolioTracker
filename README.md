@@ -1,6 +1,6 @@
-# CodeAlpha Stock Portfolio Tracker
+# Stock Portfolio Tracker
 
-A Python-based console application for managing and analyzing a stock portfolio using predefined stock prices. This project was developed as part of the CodeAlpha Python Programming Internship.
+A Python-based console application for managing and analyzing a stock portfolio using predefined stock prices.
 
 ## Features
 
@@ -108,14 +108,6 @@ The application calculates:
 
 It can also calculate the percentage allocation of each holding and identify the largest holding.
 
-## Project Structure
-
-    CodeAlpha_StockPortfolioTracker/
-    │
-    ├── portfolio_tracker.py
-    ├── portfolio.csv
-    └── README.md
-
 ## Project Highlights
 
 This project goes beyond the basic stock investment calculation by providing a complete portfolio management experience through a menu-driven interface.
@@ -130,10 +122,6 @@ It demonstrates practical use of:
 - CSV processing
 - Error handling
 - User interaction
-
-## Internship
-
-**Program:** CodeAlpha Python Programming Internship
 
 **Task:** Stock Portfolio Tracker
 
